@@ -2,6 +2,7 @@
 - [Me as a person](#me-as-a-person)
 - [Me as a programmer](#me-as-a-programmer)
 - [Some Git commands that I learned this week](#some-git-commands-that-i-learned-this-week)
+- [My Github Page for Week-1](#my-github-page-for-week-1)
 ## Me as a person
 > My name is Jiawei Lu. My major is management science in the ECON department. I like to challenge myself for new stuffs and this is one of
 > the reason I chose CS minor. I love cats and here is a picture of one of my cats. \
